@@ -80,6 +80,13 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.heading {
+  text-align: center;
+  font-size: 4rem;
+  margin: 2rem 0;
+  color: silver; /* or any color that matches your design */
+  font-family: 'Your Preferred Font', sans-serif;
+}
 
 nav {
   position: fixed;
