@@ -87,6 +87,12 @@ body {
   color: silver; /* or any color that matches your design */
   font-family: 'Your Preferred Font', sans-serif;
 }
+.para{
+  text-align: center;
+  margin: 2rem 0;
+  padding-left: 20px;
+  color: silver; 
+}
 
 nav {
   position: fixed;
